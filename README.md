@@ -52,3 +52,10 @@ npm run build
 # yarn
 yarn build
 ```
+
+# Github Pages
+
+The page will be deployed when a push is committed to the master branch or can be called manually in the `Actions` tab.
+
+You must follow the following steps:
+- Go to `Settings`, `Pages` and select `Github Actions` in the source field.
